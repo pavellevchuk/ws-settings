@@ -16,6 +16,10 @@
     <keyboard-shortcut first-keystroke="ctrl up" />
   </action>
   <action id="QuickChangeScheme" />
+  <action id="RenameElement">
+    <keyboard-shortcut first-keystroke="shift f6" />
+    <keyboard-shortcut first-keystroke="shift r" />
+  </action>
   <action id="SearchEverywhere.NavigateToNextGroup">
     <keyboard-shortcut first-keystroke="page_down" />
   </action>
